@@ -59,4 +59,7 @@
  ![](https://github.com/fernkamon/LAB-03/blob/master/LAB3-1.JPG)
  
  เมื่อเรา นำเมาส์ไปกดที่ตำแหน่งใด ก็จะขึ้น messegebox ที่บอกตำแหน่งที่กดไป
+ 
+![](https://github.com/fernkamon/LAB-03/blob/master/LAB3-2.JPG)
+
 ![]()
