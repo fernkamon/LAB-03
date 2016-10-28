@@ -62,4 +62,4 @@
  
 ![](https://github.com/fernkamon/LAB-03/blob/master/LAB3-2.JPG)
 
-![]()
+![](https://github.com/fernkamon/LAB-03/blob/master/LAB3-3.JPG)
